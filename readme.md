@@ -34,7 +34,7 @@ A production-ready Node.js REST API boilerplate with Express, MongoDB, and robus
 
 The application includes a centralized error handling system that:
 
-- Converts different error types to a consistent ApiError format
+- Converts different error types to a consistent `ApiError` format
 - Provides detailed error information in development
 - Sanitizes error responses in production
 - Logs errors appropriately
